@@ -1,0 +1,16 @@
+{
+"companyName": "Test1",
+"productName": "Android1",
+"productVersion": "1.0",
+"dataUrl": "Android1WebGl.data.unityweb",
+"wasmCodeUrl": "Android1WebGl.wasm.code.unityweb",
+"wasmFrameworkUrl": "Android1WebGl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
